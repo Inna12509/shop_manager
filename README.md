@@ -18,7 +18,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_ЛОГИН/shop_manager.git
+git clone https://github.com/Inna12509/shop_manager.git
 cd shop_manager
 pip install -r requirements.txt
 ```
